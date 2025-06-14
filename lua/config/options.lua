@@ -17,7 +17,7 @@ vim.g.have_nerd_font = true
 --  For more options, you can see `:help option-list`
 
 -- Enable break indent
-vim.o.breakindent = true
+-- vim.o.breakindent = true
 
 -- Preview substitutions live, as you type!
 -- vim.o.inccommand = 'split'
