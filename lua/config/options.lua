@@ -21,6 +21,3 @@ vim.g.have_nerd_font = true
 
 -- Preview substitutions live, as you type!
 -- vim.o.inccommand = 'split'
-
--- Minimal number of screen lines to keep above and below the cursor.
--- vim.o.scrolloff = 10
